@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="DESKTOP-V0PE4ET" name="com.mymaven.test.RegisterTest" tests="2" failures="0" timestamp="23 Feb 2023 13:53:09 GMT" time="34.997" errors="0">
+  <testcase name="verifyRegisteringWithAllFields" time="0.022" classname="com.mymaven.test.RegisterTest"/>
+  <testcase name="verifyRegisteringWithMandatory" time="0.005" classname="com.mymaven.test.RegisterTest"/>
+</testsuite>

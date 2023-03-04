@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="34997" started-at="2023-02-23T19:22:34Z" finished-at="2023-02-23T19:23:09Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="34997" started-at="2023-02-23T19:22:34Z" finished-at="2023-02-23T19:23:09Z">
+      <class name="com.mymaven.test.RegisterTest">
+        <test-method status="PASS" signature="configureStart()" name="configureStart" is-config="true" duration-ms="1434" started-at="2023-02-23T19:22:32Z" finished-at="2023-02-23T19:22:34Z">
+        </test-method>
+        <test-method status="PASS" signature="setupBrowser()" name="setupBrowser" is-config="true" duration-ms="20657" started-at="2023-02-23T19:22:34Z" finished-at="2023-02-23T19:22:55Z">
+        </test-method>
+        <test-method status="PASS" signature="verifyRegisteringWithAllFields()" name="verifyRegisteringWithAllFields" duration-ms="22" started-at="2023-02-23T19:22:55Z" finished-at="2023-02-23T19:22:55Z">
+        </test-method>
+        <test-method status="PASS" signature="quitBrowser()" name="quitBrowser" is-config="true" duration-ms="1152" started-at="2023-02-23T19:22:55Z" finished-at="2023-02-23T19:22:56Z">
+        </test-method>
+        <test-method status="PASS" signature="setupBrowser()" name="setupBrowser" is-config="true" duration-ms="12302" started-at="2023-02-23T19:22:56Z" finished-at="2023-02-23T19:23:08Z">
+        </test-method>
+        <test-method status="PASS" signature="verifyRegisteringWithMandatory()" name="verifyRegisteringWithMandatory" duration-ms="5" started-at="2023-02-23T19:23:08Z" finished-at="2023-02-23T19:23:08Z">
+        </test-method>
+        <test-method status="PASS" signature="quitBrowser()" name="quitBrowser" is-config="true" duration-ms="833" started-at="2023-02-23T19:23:08Z" finished-at="2023-02-23T19:23:09Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

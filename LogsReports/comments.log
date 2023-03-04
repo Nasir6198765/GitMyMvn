@@ -1,0 +1,42 @@
+12:17:04.939 [main] INFO  com.mymaven.test.Base - setupBrowser
+12:17:46.228 [main] INFO  com.mymaven.test.Base - Chrome launched
+12:17:46.841 [main] INFO  com.mymaven.test.Base - Maximized window
+12:17:56.650 [main] INFO  com.mymaven.test.Base - Navigated on URL
+12:17:56.654 [main] INFO  com.mymaven.test.Base - verifyRegisteringWithAllFields
+12:18:05.330 [main] INFO  com.mymaven.test.Base - quitBrowser
+12:18:05.333 [main] INFO  com.mymaven.test.Base - setupBrowser
+12:18:25.451 [main] INFO  com.mymaven.test.Base - Chrome launched
+12:18:25.767 [main] INFO  com.mymaven.test.Base - Maximized window
+12:18:31.444 [main] INFO  com.mymaven.test.Base - Navigated on URL
+12:18:31.446 [main] INFO  com.mymaven.test.Base - verifyRegisteringWithMandatory
+12:18:33.552 [main] INFO  com.mymaven.test.Base - quitBrowser
+12:18:33.553 [main] INFO  com.mymaven.test.Base - setupBrowser
+12:18:45.497 [main] INFO  com.mymaven.test.Base - Chrome launched
+12:18:48.205 [main] INFO  com.mymaven.test.Base - Maximized window
+12:18:58.709 [main] INFO  com.mymaven.test.Base - Navigated on URL
+12:18:58.710 [main] INFO  com.mymaven.test.Base - verifyRegisteringWithoutFields
+12:19:00.858 [main] INFO  com.mymaven.test.Base - quitBrowser
+11:43:00.442 [main] INFO  com.mymaven.test.Base - setupBrowser
+11:43:22.446 [main] INFO  com.mymaven.test.Base - Chrome launched
+11:43:22.656 [main] INFO  com.mymaven.test.Base - Maximized window
+11:43:24.630 [main] INFO  com.mymaven.test.Base - Navigated on URL
+11:43:24.630 [main] INFO  com.mymaven.test.Base - verifyRegisteringWithAllFields
+11:43:25.400 [main] INFO  com.mymaven.test.Base - quitBrowser
+11:43:25.416 [main] INFO  com.mymaven.test.Base - setupBrowser
+11:43:27.867 [main] INFO  com.mymaven.test.Base - Chrome launched
+11:43:28.002 [main] INFO  com.mymaven.test.Base - Maximized window
+11:43:31.214 [main] INFO  com.mymaven.test.Base - Navigated on URL
+11:43:31.222 [main] INFO  com.mymaven.test.Base - verifyRegisteringWithMandatory
+11:43:32.015 [main] INFO  com.mymaven.test.Base - quitBrowser
+11:47:20.395 [main] INFO  com.mymaven.test.Base - setupBrowser
+11:47:26.160 [main] INFO  com.mymaven.test.Base - Chrome launched
+11:47:26.343 [main] INFO  com.mymaven.test.Base - Maximized window
+11:47:27.944 [main] INFO  com.mymaven.test.Base - Navigated on URL
+11:47:27.944 [main] INFO  com.mymaven.test.Base - verifyRegisteringWithAllFields
+11:47:28.332 [main] INFO  com.mymaven.test.Base - quitBrowser
+11:47:28.332 [main] INFO  com.mymaven.test.Base - setupBrowser
+11:47:30.623 [main] INFO  com.mymaven.test.Base - Chrome launched
+11:47:30.773 [main] INFO  com.mymaven.test.Base - Maximized window
+11:47:32.738 [main] INFO  com.mymaven.test.Base - Navigated on URL
+11:47:32.738 [main] INFO  com.mymaven.test.Base - verifyRegisteringWithMandatory
+11:47:32.972 [main] INFO  com.mymaven.test.Base - quitBrowser
